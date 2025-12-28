@@ -1,17 +1,17 @@
-# @maxclicks/types
+# @maxclicks/browser
 
-Shared public API types and implementations for maxclicks projects.
+The official maxclicks browser SDK for API access.
 
 ## Installation
 
 ```bash
-npm install @maxclicks/types
+npm install @maxclicks/browser
 ```
 
 ## Usage
 
 ```typescript
-import {} from /* your exports */ '@maxclicks/types'
+import {} from "@maxclicks/browser";
 ```
 
 ## Development
